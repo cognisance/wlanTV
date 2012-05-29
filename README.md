@@ -37,13 +37,13 @@ Goodies (optional in first version, but must be included in consequent versions 
 -consider DRM solutions 
 
 
-++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+=============================
 Interesting External  links 
-++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+=============================
 http://developer.yahoo.com/connectedtv/devicecommunication
-http://developer.yahoo.com/forum/Connected%20TV 
-http://blog.tmcnet.com/blog/tom-keating/voip/streaming-live-tv.asp 
-http://www.worldtvpc.com/blog/streaming-internet-movies-direct-tv-bluray-connected-tv/ 
+http://developer.yahoo.com/forum/Connected%20TV
+http://blog.tmcnet.com/blog/tom-keating/voip/streaming-live-tv.asp
+http://www.worldtvpc.com/blog/streaming-internet-movies-direct-tv-bluray-connected-tv/
 http://wiki.xbmc.org/index.php?title=Developing_XBMC_for_Android 
 http://xbmc.org/freezy3k/2010/07/13/official-xbmc-remote-for-android/ 
 http://www.orb.com/ 
@@ -55,3 +55,4 @@ http://www.androidauthority.com/one-x-root-unlock-bootloader-custom-recovery-all
 http://htcdev.com/bootloader/ 
 http://mytechhelp.hubpages.com/hub/Enable-UPnP-On-My-Router 
 http://support.microsoft.com/kb/941206 
+
