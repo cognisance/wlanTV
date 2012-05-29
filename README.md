@@ -6,35 +6,35 @@ Android wi-fi device connected to TV
 ========================================================================================
 Assumptions and terminology 
 ========================================================================================
-Device - android mobile or android device.
-Android version assumed to be  4 Ice Cream Sandwich
-Connected Device[CDv] :- android device connected to TV
-Remote Device[RcDv] :- android device acting as remote controle to Connected Device [CDv]
-Remote PC[RPc]:- PC acting as remote control to connected device [CDv]
+Device - android mobile or android device.<br>
+Android version assumed to be  4 Ice Cream Sandwich.<br>
+Connected Device[CDv] :- android device connected to TV.<br>
+Remote Device[RcDv] :- android device acting as remote controle to Connected Device [CDv].<br>
+Remote PC[RPc]:- PC acting as remote control to connected device [CDv].<br>
 
 =========================================================================================
 Main features (must have )
 =========================================================================================
--identifying mobile phone capable of below features
--using  PC  as Smart Remote Controls to control android device having this app installed
--Instantly stream PC video to android device.
--Connect to TV using HDMI cable.
--connect to your home network by Wi-Fi.
--Remote Control: Navigate your favorite apps on android Device using touch and swipe gestures. Effortlessly type text using  device’s keyboard [first phase only on RPc]
--should be able to Launch web browser and play any online video.
--Device should have all video codecs and be able to VLC 
--works only with non DRM media
+-identifying mobile phone capable of below features.<br>
+-using  PC  as Smart Remote Controls to control android device having this app installed.<br>
+-Instantly stream PC video to android device..<br>
+-Connect to TV using HDMI cable..<br>
+-connect to your home network by Wi-Fi..<br>
+-Remote Control: Navigate your favorite apps on android Device using touch and swipe gestures. Effortlessly type text using  device’s keyboard [first phase only on RPc].<br>
+-should be able to Launch web browser and play any online video..<br>
+-Device should have all video codecs and be able to VLC .<br>
+-works only with non DRM media.<br>
 
 ========================================================================================
 Goodies (optional in first version, but must be included in consequent versions )
 ========================================================================================
--using  Mobile Phones[RcDv] as Smart Remote Controls to control android device having this app installed
--Stream Dropbox videos 
--connect to TV using home network (if TV supports wi-fi connection and dlna)
--App should be made available in Google Play
--Instantly stream RcDv video to android device.
--XBMC ported to connected andriod device [CDv]
--consider DRM solutions 
+-using  Mobile Phones[RcDv] as Smart Remote Controls to control android device having this app installed.<br>
+-Stream Dropbox videos .<br>
+-connect to TV using home network (if TV supports wi-fi connection and dlna).<br>
+-App should be made available in Google Play.<br>
+-Instantly stream RcDv video to android device..<br>
+-XBMC ported to connected andriod device [CDv].<br>
+-consider DRM solutions .<br>
 
 
 =============================
